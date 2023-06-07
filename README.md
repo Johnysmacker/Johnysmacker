@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm learning a git tutorial by thecodingtrain rn, it's pretty good.
+I recomend it, and it's free on Youtube
 <!--
 **Johnysmacker/Johnysmacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
